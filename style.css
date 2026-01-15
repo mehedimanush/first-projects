@@ -159,6 +159,10 @@ ul li{
     height: 80vh;
     margin: 0 auto;
 }
+.imgSection{
+    width: 50%;
+    height: 80vh;
+}
  .secondStructure h4{
     color: green;
     text-transform: uppercase;
